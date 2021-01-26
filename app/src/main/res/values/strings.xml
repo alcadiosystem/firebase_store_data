@@ -6,4 +6,8 @@
 
     <string name="forever_batman">Batman Forever</string>
     <string name="app_batman">Batman App</string>
+    <string name="login_text">Login to gotham city</string>
+    <string name="login_txt">Go to gotham</string>
+    <string name="not_account">You do not have an account?</string>
+    <string name="register_now">Register now!!</string>
 </resources>
